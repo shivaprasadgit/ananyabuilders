@@ -1,10 +1,10 @@
 import React from 'react';
-import img1 from ''
+
  const section=()=>{
      return(
          <div>
           <div id="showcase">
-            <img src="./img/glass.jpg" height='800'/>
+            {/* <img src="./img/glass.jpg" height='800'/> */}
             <div className="container">
                 <h1>Aananya constuctions</h1>
                 <h7>
@@ -24,17 +24,17 @@ import img1 from ''
         <div id="boxes">
             <div className="container">
                 <div className="box">
-                    <img src="./img/house_dup.png" height="150"/>
+                    {/* <img src="./img/house_dup.png" height="150"/> */}
                     <h3>Duplex House</h3>
                     <p>Duplex house with new fetures and new interior design</p>
                 </div>
                 <div className="box">
-                    <img src="./img/apart_hou.png" height="150"/>
+                    {/* <img src="./img/apart_hou.png" height="150"/> */}
                     <h3>House in apartment</h3>
                     <p>house in aparment with new fetures and new interior design </p>
                 </div>
                 <div className="box">
-                    <img src="./img/apart_dup.png" height="150"/>
+                    {/* <img src="./img/apart_dup.png" height="150"/> */}
                         <h3>Duplex in apartment</h3>
                         <p>Duplex house with new fetures with new interior design</p>
                      </div>
